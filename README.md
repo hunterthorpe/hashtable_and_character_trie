@@ -33,7 +33,8 @@ Your program should output the hash values of each of these strings, one per lin
     16
     8
     13
-        
+.
+
     Problem 1 B
 
 In this problem I implemented a hash table with initial size M capable of storing strings using the hash function hM described in Problem 1 A.
@@ -124,7 +125,8 @@ In this example your program should output the following:
         alg 9
         alr 1 
         art 2
-        
+.
+
     Problem 2 C
 
 You are provided with a word stub, which is the start of a word which is yet to be completed. Your program should predict the probabilities of the possible word completions, based on the set of words provided to your program.
